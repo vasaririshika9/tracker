@@ -66,16 +66,16 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 
 ### 1. Login page
-![Login page](screenshot/img3.png)
+![Login page](screenshots/img3.png)
 
 Users enter an optional name, their email, and an optional phone number with the +91 code. They pick email or SMS for the one-time code, then tap **Send OTP**. The page also has terms and privacy links and a short security note.
 ### 2. Successful login
-![Successful login page](screenshot/img1.png)
+![Successful login page](screenshots/img1.png)
 
 After a successful OTP check, a welcome card greets the user by name with an animated checkmark. It shows the ₹10,000 / 30-day budgeting challenge, with buttons to open the dashboard or log out.
 
 ### 3 . Expense tracker dashboard
-![Expense tracker dashboard](screenshot/img2.png)
+![Expense tracker dashboard](screenshots/img2.png)
 
 The dashboard shows the total budget, amount spent, remaining balance and percentage of budget used. Users can add, search, filter, edit and delete expenses, and a category chart shows where the money goes.
 
