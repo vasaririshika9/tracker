@@ -1,0 +1,42 @@
+/* ===== Paisa design tokens — change these to re-theme the whole site ===== */
+:root {
+  /* Colors */
+  --color-primary: #F8C8DC;
+  --color-bg: #FFF5F8;
+  --color-card: #FFFFFF;
+  --color-text: #33252C;
+  --color-text-muted: #887680;
+  --color-button: #E98DB5;
+  --color-button-hover: #D875A0;
+  --color-button-text: #FFFFFF;
+  --color-border: #F0DDE5;
+  --color-success: #3A9D70;
+  --color-success-bg: #E8F6EF;
+  --color-error: #C8415F;
+  --color-error-bg: #FDECEF;
+  --color-warning-bg: #FFF4DD;
+  --color-warning-text: #8A5A00;
+
+  /* Shape & depth */
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 24px;
+  --radius-pill: 999px;
+  --shadow-card: 0 20px 50px -20px rgba(216, 117, 160, 0.35), 0 2px 6px rgba(51, 37, 44, 0.04);
+  --shadow-button: 0 8px 18px -8px rgba(233, 141, 181, 0.9);
+
+  /* Type */
+  --font-family: 'Poppins', 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  /* Spacing */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+
+  /* Motion */
+  --transition: 180ms ease;
+}
